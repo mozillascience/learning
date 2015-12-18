@@ -10,12 +10,14 @@ For 2016, our primary audiences are:
 * General Curious Audiences
 
 
-Each for learning resource we create, we need to specify in advance: 
+Each for learning resource we create, we must specify in advance: 
 
 * the goal/need it meets  
 * the audience or target user  
-* the format  
-* how it is tested  
+* the format/mode of delivery
+* how it will be tested  
 * how it will be revised  
-* how it will be shared widely  
+* how it will be reused and shared widely  
+
+The Curriculum Design Brief <need link here> is completed before any project begins and captures all this information.
 
