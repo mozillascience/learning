@@ -9,6 +9,7 @@ For 2016, our primary audiences are:
 * Study Groups
 * General Curious Audiences
 
+Our 2016 Learning Resources Roadmap is here. 
 
 Each for learning resource we create, we must specify in advance: 
 
