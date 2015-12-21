@@ -13,7 +13,7 @@
 #### What labels do I use?  
 
 #### What are milestones?  
-...
+Milestones are two week periods (heartbeats) within which we plan, prototype, test, iterate, and share new curriculum.
 
 #### How do I submit a pull request?
 
