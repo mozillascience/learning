@@ -1,7 +1,7 @@
 # learning
 ##This is a repository for planning and working on Mozilla Science Lab learning materials.
 
-We are creaing learning materials for our communities. 
+We create learning materials for our communities. 
 For 2016, our primary audiences are:
 
 * Mozilla Fellows for Science
@@ -9,9 +9,9 @@ For 2016, our primary audiences are:
 * Study Groups
 * General Curious Audiences
 
-Our 2016 Learning Resources Roadmap is here. 
+Our 2016 Learning Resources Roadmap [is here] (https://github.com/mozillascience/learning/blob/master/plan/Roadmap.md). 
 
-Each for learning resource we create, we must specify in advance: 
+For each learning resource we create, we must specify in advance: 
 
 * the goal/need it meets  
 * the audience or target user  
