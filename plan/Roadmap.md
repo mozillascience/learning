@@ -10,8 +10,8 @@ Facilitating project-based learning around open data and open source
 * Survey and evaluate existing training offerings on "open" (see in-process list here: <https://public.etherpad-mozilla.org/p/sciencelab-other-open-trainings>
 * Define some working process for curriculum/learning experience design
 * Identify/collate best practices for working open, open data, facilitation and teaching
-* Define a "like Mozilla" voice/style/approach or spin for our learning materials +1
-* Develop core curriculum/learning experiences for target audiences (fellows, OLC, Study Groups); whenever possible develop materials collaboratively with our communties (in sprints and via study groups) yes, yes
+* Define a "like Mozilla" voice/style/approach or spin for our learning materials
+* Develop core curriculum/learning experiences for target audiences (fellows, OLC, Study Groups); whenever possible develop materials collaboratively with our communties (in sprints and via study groups)
 * Test and refine best formats and modes for delivering our materials; create reusable templates
 * Align curriculum approach and production with curriculum work across Mozilla
 * Find overlaps between Fellows curriculum and Open Leaders Cohort resources
