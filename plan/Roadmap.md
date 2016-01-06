@@ -34,7 +34,7 @@ Facilitating project-based learning around open data and open source
 * Advocacy
 
 ####JANUARY
-* Define "teach like Mozilla" values/manifesto
+* Define "teach like Mozilla" values/manifesto (https://public.etherpad-mozilla.org/p/sciencelab-teach-like-mozilla)
 * Design/prototype model for mini curriculum sprints, or co-development of materials.
 * Develop new iteration of learning experiences for Open Leaders Cohort Workshops (revising 2015 Summit Materials). May include SOME of the following: 
   * Open Science 101 (Fellows)
