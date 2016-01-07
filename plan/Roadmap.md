@@ -7,7 +7,7 @@ Facilitating project-based learning around open data and open source
 3. We hold events for project-based learning and collaboration.
 
 ####2016 GOALS
-* Survey and evaluate existing training offerings on "open" (see in-process list here: <https://public.etherpad-mozilla.org/p/sciencelab-other-open-trainings>
+* [Survey and evaluate existing training offerings on "open"](https://github.com/mozillascience/learning/issues/9)
 * Define some working process for curriculum/learning experience design
 * Identify/collate best practices for working open, open data, facilitation and teaching
 * Define a "like Mozilla" voice/style/approach or spin for our learning materials
