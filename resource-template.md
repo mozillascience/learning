@@ -1,15 +1,15 @@
 ### Title:
 
-#### Learning Goals:
+### Learning Goals:
 (for example, "we will learn how to set up a repo and make a pull request using GitHub")
 
-#### Target Audience:
+### Target Audience:
 (for example, graduate students in ecology, mid career researchers, citizen scientists, new contributors to open source projects-- these can be narrow or broad as needed)
 
-#### Delivery Format: 
+### Delivery Format: 
 (if relevant... in person workshop, online resource)
 
-#### Level: 
+### Level: 
 (Beginner, Intermediate, Advanced)
 
 ### Time to complete: 
