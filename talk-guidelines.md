@@ -19,6 +19,7 @@ Be sure to define all terms that might be unfamiliar to your audience as those w
 
 **Welcome questions and establish a process for asking/answering**
 Make it clear that you welcome questions from the audience. State this upfront, and let the audience know how you'll handling questions and answers (during the talk, at a period at the end, on stickie notes handed up front, etc... this is up to you).   
+
 **Build in moments for the audience to participate and share.** 
 Ask questions of your audience and give them a real opportunity to respond. They can participate by giving an example, telling a story, defining a term, or putting a concept in their own words. This will help them actively process and interalize the content. 
 
