@@ -12,28 +12,29 @@
 #### Level: 
 (Beginner, Intermediate, Advanced)
 
-#### Time to complete: 
+### Time to complete: 
 (hours, mins)
 
-#### What you'll need to start: 
+### What you'll need to start: 
 (materials, tech, etc)
 
-#### Before using this resource you should be familiar with:
+### Before using this resource you should be familiar with:
 (topics or skills, like command line or gitHub)
 
-#### For information on those topics, see:
+### For information on those topics, see:
 (point to other tutorials or learning resources)
 
-#### Glossary of key terms: 
+### Glossary of key terms: 
 (clear and simple definitions, please)
 
-#### Intro to material: (summary, context, how this topic is relevant, how the skill/info can be applied, specific example/examples when possible)
+### Intro to material: 
+(summary, context, how this topic is relevant, how the skill/info can be applied, specific example/examples when possible)
 
-#### Steps to complete:
+### Steps to complete:
 (number and detail each task that you'll need ot complete)
 
-#### Follow-up resources and materials: 
+### Follow-up resources and materials: 
 (next lesson in sequence, or related follow-up tranings/resources)
 
-#### Any credits or attribution:
+### Any credits or attribution:
 (for example: Thanks to Stephanie Wright for assistance revising this template)
