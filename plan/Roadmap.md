@@ -35,7 +35,7 @@ Facilitating project-based learning around open data and open source
 
 ####JANUARY
 * [Define "teach like Mozilla" values/manifesto] (https://github.com/mozillascience/learning/issues/6)
-* [Update Curriculum Breif into shorter format] (https://github.com/mozillascience/learning/issues/7)
+* [Update Curriculum Brief into shorter format] (https://github.com/mozillascience/learning/issues/7)
 * Develop new iteration of learning experiences for Open Leaders Cohort Workshops (revising 2015 Summit Materials). May include SOME of the following: 
   * Open Science 101 (Fellows)
   * Project/Group Set-Up
