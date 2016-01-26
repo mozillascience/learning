@@ -16,7 +16,7 @@ Use this guide when you're emceeing a Mozilla Science Lab call!
   * This sets the climate for the entire call. You are the focal point - help the audience get excited for the content of this call!
 * Introduce the call and the Mozilla Science Lab
   * This is a good place to use our mission statement.
-  * *"Welcome to the project call of the Mozilla Science Lab. __The Mozilla Science Lab works to make research more collaborative, accessible and usable__"*
+  * *"Welcome to the project call of the Mozilla Science Lab. __The Mozilla Science Lab works to make research collaborative, accessible and usable__"*
 * Introduce yourself.
   * This can be short: *"Hi, I'm Abby, lead developer of the Science Lab"*
   * Who are you? Why are you here? Why are you excited about emceeing (optional)?
