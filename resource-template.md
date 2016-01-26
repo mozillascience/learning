@@ -31,7 +31,7 @@
 (summary, context, how this topic is relevant, how the skill/info can be applied, specific example/examples when possible)
 
 ### Steps to complete:
-(number and detail each task that you'll need ot complete)
+(number and detail each task that you'll need to complete)
 
 ### Follow-up resources and materials: 
 (next lesson in sequence, or related follow-up tranings/resources)
