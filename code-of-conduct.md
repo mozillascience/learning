@@ -1,6 +1,6 @@
 # Code of Conduct
 
-<iframe src="//giphy.com/embed/uH06GDOiPIEQU" width="480" height="269" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="http://giphy.com/gifs/uH06GDOiPIEQU">via GIPHY</a></p>
+![](https://media.giphy.com/media/uH06GDOiPIEQU/giphy.gif)
 
 ## Major Rules
 
