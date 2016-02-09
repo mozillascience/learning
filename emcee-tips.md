@@ -44,6 +44,11 @@ Now you can dive into the agenda items. Be gracious and alert as you go through 
   * Have a couple questions in mind in case the audience doesn't have questions or to give them time to get their questions in the pad
   * Read out any etherpad questions during the discussion
   * Keep an eye on the time! If you're short on time, cut the discussion short. Encourage asnyc etherpad q&a while you move on to the next section.
+  
+* For each non-verbal section (Friends of Mozilla Science, Community Updates, etc)
+  * If the section is at the beginning of the meeting, read through each point on the call
+  * If this is at the end of the call, read through if there's time. Otherwise, feel free to skip and encourage listeners to read on their own time.
+    * If there's a lot of time left, feel free to turn these into verbal updates if the correct people are on the call
 
 ###Closing the call
 
