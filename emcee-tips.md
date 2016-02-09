@@ -1,6 +1,6 @@
 # Emcee tips
 
-Use this guide when you're emceeing a Mozilla Science Lab call!
+Thank you so much for helping us run one of our calls. Use this guide when you're emceeing a Mozilla Science Lab call!
 
 ###Before the call
 * Review the agenda - make sure you understand what is going on and how long each section should last for
