@@ -14,6 +14,7 @@ Use this guide when you're emceeing a Mozilla Science Lab call!
 ###Once the call starts
 * Open the event! Welcome everyone.
   * This sets the climate for the entire call. You are the focal point - help the audience get excited for the content of this call!
+  * Reminder users new to Etherpad to name themselves in the top right-hand corner, and sign the roll call.
 * Introduce the call and the Mozilla Science Lab
   * This is a good place to use our mission statement.
   * *"Welcome to the project call of the Mozilla Science Lab. __The Mozilla Science Lab works to make research collaborative, accessible and usable__"*
