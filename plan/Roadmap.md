@@ -48,11 +48,9 @@ Facilitating project-based learning around open data and open source
 * Draft "Working Open Kit" Format
 * Support Christie's course development process
   * Include assistance in making materials transferable
-* Develop open data quick sheets 
-  * Why open data
-  * How open data
-  * Where to put open data
-  * Data mgmt best practices
+* Develop open data materials for WOW
+  * Challenges to Open Data & how to respond
+  * Data Reuse Plan Handout & Template
 * Design/prototype model for mini curriculum sprints, or co-development of materials.
   
 ####FEBRUARY
@@ -62,7 +60,7 @@ Facilitating project-based learning around open data and open source
 * Evaluate and refine WOW and Fellows materials
 * Develop Study Group Templates
 * Plan Leadership Curriculum Sprint for March
-* Plan event for community development of open data primer
+* Develop data reuse checklist
 
 ####MARCH
 * Leadership Curriculum Sprint
@@ -71,12 +69,16 @@ Facilitating project-based learning around open data and open source
 * Launch Study Group Templates
 * Plan Curriculum Sprint for Study Groups (handbooks, lessons)
 * Plan portal of existing open science/open research training resources
+* Develop Open Data Training Plan
+* Plan and develop introductory workshop to open data
 
 ####APRIL
 * Fellows Work Week
 * WOW (location TBD)
 * Study Group Curriculum Sprint
 * Create portal of existing open science/open research training resources
+* Test delivery of modules from introductory workshop to open data
 
 ####MAY
 * Host event for community development of open data primer
+
